@@ -14,4 +14,5 @@ from math import sqrt,ceil,pi
 print(ceil(90.1))
 print(sqrt(90.1))
 print(pi)
+help(math)
 
